@@ -12,9 +12,9 @@ Please leave a STAR 🌟 and SUBSCRIBE to our channel for more AMAZING content! 
 
 👉 My Resume Review: https://youtu.be/EPSHL30xR2s
 
-👉 Intern Interview Experience Series: shorturl.at/krsG3
+👉 Intern Interview Experience Series: https://shorturl.at/krsG3
 
-👉 Placement Interview Experiences:shorturl.at/rxCK2
+👉 Placement Interview Experiences:https://shorturl.at/rxCK2
 
 👉 Service-based to Product Based:https://youtu.be/GiBVjvcr9N4
 
@@ -24,7 +24,7 @@ Please leave a STAR 🌟 and SUBSCRIBE to our channel for more AMAZING content! 
 
 👉 Masters in the US:https://youtu.be/OgU8CHZDTSg
 
-👉 Placement Guide Series: shorturl.at/glAE5
+👉 Placement Guide Series: https://shorturl.at/glAE5
 
 👉 Best Resources for Aptitude Prep:https://www.youtube.com/watch?v=HyD6KUQQy3M
 
