@@ -19,7 +19,7 @@
 
 <br/>
 
-## Learning Plan (75 Amazing Problems for Microsoft)
+## Learning Plan (70 Amazing Problems for Microsoft)
 
 Your Status can be: **Done ✅ | In Progress🕓 | Skipped❌**
 <br>
@@ -29,16 +29,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
-| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
+| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
+| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
+| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
+| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
+| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
+| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
 
 
 ---
@@ -48,16 +48,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
-| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
-| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) |  |  |
+| [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |  |  |
+| [Clone a directed graph](https://leetcode.com/problems/clone-graph/)  |  |  |
+| [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
+| [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  |  |
+| [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
+| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  |  |
+| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
+| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
 
 ---
 <br>
@@ -66,16 +66,21 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
-| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
-| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
+| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
+| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
+| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
+| [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
+| [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
+| [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
+| [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
+| [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
+| [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) |  |  |
+| [Coin Change]( https://leetcode.com/problems/coin-change-2/)  |  |  |
 
 ---
 <br>
@@ -84,16 +89,21 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
-| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
-| [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
-| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
+| [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |  |  |
+| [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
+| [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) |  |  |
+| [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
+| [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
+| [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
+| [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
-| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
-| [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
+| [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
+| [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
+| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
+| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  |  |
+| [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) |  |  |
 
 ---
 <br>
@@ -102,49 +112,26 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
-| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
-| [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
-| [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
-
----
-> **Problems for Week 6**
-
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
-| [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
+| [Partition List](https://leetcode.com/problems/partition-list/) |  |  |
+| [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
+| [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |  |  |
+| [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  |
+| [Min Stack](https://leetcode.com/problems/min-stack/) |  |  |
+| [All Unique Permutations ](https://leetcode.com/problems/permutations-ii/) |  |  |
+| [Generate all Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  |  |
+| [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |  |  |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/) |  |  |
+| [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
-| [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
+| [Subsets](https://leetcode.com/problems/subsets-ii/) |  |  |
+| [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) |  |  |
+| [Flatten Binary Tree to Linked List]( https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ )  |  |  |
+| [Gas Station]( https://leetcode.com/problems/gas-station/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
-| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
-| [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
-
----
-<br>
-> **Problems for Week 4**
-
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
-| [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
-| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
-| [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
-| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
-| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
-| [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
+| [Word ladder]( https://leetcode.com/problems/word-ladder-ii/) |  |  |
+| [Meeting Rooms]( https://www.interviewbit.com/problems/meeting-rooms/) |  |  |
+| [Distribute Candies]( https://leetcode.com/problems/distribute-candies/) |  |  |
 
 ---
 ## Contribute
